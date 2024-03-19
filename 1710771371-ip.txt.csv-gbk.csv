@@ -1,0 +1,495 @@
+IP地址,端口,回源端口,数据中心,地区,城市,TCP延迟(ms),速度(kB/s)
+129.146.46.164,443,443,US,Los Angeles,Los Angeles,27 ms,41574 kB/s
+198.23.196.40,443,443,US,Buffalo,Buffalo,60 ms,35225 kB/s
+47.88.101.9,443,443,US,San Jose,San Jose,3 ms,60928 kB/s
+35.230.79.26,443,443,US,Seattle,Seattle,22 ms,105472 kB/s
+198.23.236.101,443,443,US,San Jose,San Jose,38 ms,87961 kB/s
+129.146.7.98,443,443,US,Los Angeles,Los Angeles,41 ms,57753 kB/s
+198.46.188.190,443,443,US,Buffalo,Buffalo,69 ms,10547 kB/s
+192.18.149.159,443,443,CA,Toronto,Toronto,61 ms,26214 kB/s
+43.153.103.203,443,443,US,San Jose,San Jose,24 ms,211968 kB/s
+184.169.181.217,443,443,US,San Jose,San Jose,23 ms,279552 kB/s
+43.153.80.208,443,443,US,San Jose,San Jose,92 ms,206848 kB/s
+35.197.23.75,443,443,US,Seattle,Seattle,21 ms,111616 kB/s
+198.23.254.51,443,443,US,San Jose,San Jose,15 ms,87552 kB/s
+192.9.138.241,443,443,US,San Jose,San Jose,15 ms,207872 kB/s
+34.82.76.253,443,443,US,Seattle,Seattle,21 ms,95641 kB/s
+34.145.83.113,443,443,US,Seattle,Seattle,22 ms,63590 kB/s
+107.172.98.6,443,443,US,San Jose,San Jose,24 ms,19968 kB/s
+35.202.158.120,443,443,US,Chicago,Chicago,58 ms,54579 kB/s
+23.94.182.23,443,443,US,Buffalo,Buffalo,74 ms,11161 kB/s
+23.94.43.51,443,443,US,Seattle,Seattle,51 ms,81715 kB/s
+107.174.192.7,443,443,US,San Jose,San Jose,1 ms,91648 kB/s
+130.61.23.77,443,443,DE,Frankfurt,Frankfurt,149 ms,12595 kB/s
+3.112.21.102,443,443,JP,Tokyo,Tokyo,105 ms,23859 kB/s
+152.67.233.64,443,443,US,San Jose,San Jose,57 ms,167936 kB/s
+193.122.197.111,443,443,US,Ashburn,Ashburn,149 ms,37068 kB/s
+192.210.175.20,443,443,NL,Amsterdam,Amsterdam,151 ms,6774 kB/s
+3.144.191.4,443,443,US,Chicago,Chicago,84 ms,37376 kB/s
+43.131.49.250,443,443,DE,Frankfurt,Frankfurt,150 ms,14336 kB/s
+3.97.14.70,443,443,CA,Montréal,Montréal,77 ms,33996 kB/s
+45.154.15.101,443,443,CN,Hong Kong,Hong Kong,129 ms,1199 kB/s
+138.3.254.39,443,443,DE,Frankfurt,Frankfurt,150 ms,14028 kB/s
+3.67.25.193,443,443,DE,Frankfurt,Frankfurt,155 ms,13721 kB/s
+13.250.22.76,443,443,SG,Singapore,Singapore,170 ms,366 kB/s
+23.94.217.204,443,443,NL,Amsterdam,Amsterdam,147 ms,13721 kB/s
+143.47.238.255,443,443,US,Frankfurt,Frankfurt,152 ms,13516 kB/s
+18.184.55.249,443,443,DE,Frankfurt,Frankfurt,155 ms,12697 kB/s
+84.235.169.234,443,443,NL,Amsterdam,Amsterdam,148 ms,5652 kB/s
+35.201.203.106,443,443,TW,Taipei,Taipei,151 ms,15974 kB/s
+89.168.118.76,443,443,DE,Frankfurt,Frankfurt,149 ms,5272 kB/s
+47.89.191.155,443,443,US,Ashburn,Ashburn,97 ms,3210 kB/s
+54.169.229.188,443,443,SG,Singapore,Singapore,170 ms,367 kB/s
+64.110.103.69,443,443,JP,Hong Kong,Hong Kong,149 ms,4515 kB/s
+8.219.179.34,443,443,SG,Singapore,Singapore,256 ms,6784 kB/s
+8.222.193.65,443,443,SG,Singapore,Singapore,253 ms,5839 kB/s
+47.236.12.195,443,443,SG,Singapore,Singapore,254 ms,5804 kB/s
+129.154.50.220,443,443,KR,Hong Kong,Hong Kong,134 ms,14745 kB/s
+8.222.254.91,443,443,SG,Singapore,Singapore,257 ms,7231 kB/s
+13.127.95.206,443,443,IN,Mumbai,Mumbai,224 ms,7260 kB/s
+8.222.225.193,443,443,SG,Singapore,Singapore,254 ms,370 kB/s
+47.236.130.95,443,443,SG,Singapore,Singapore,254 ms,6738 kB/s
+8.219.111.175,443,443,SG,Singapore,Singapore,255 ms,6469 kB/s
+18.197.218.69,443,443,DE,Frankfurt,Frankfurt,155 ms,15564 kB/s
+13.38.56.6,443,443,FR,Paris,Paris,146 ms,15052 kB/s
+47.245.115.6,443,443,SG,Singapore,Singapore,255 ms,6208 kB/s
+8.219.228.186,443,443,SG,Singapore,Singapore,254 ms,5928 kB/s
+47.236.112.218,443,443,SG,Singapore,Singapore,255 ms,3199 kB/s
+8.219.240.160,443,443,SG,Singapore,Singapore,256 ms,2267 kB/s
+47.236.87.206,443,443,SG,Singapore,Singapore,255 ms,4446 kB/s
+8.222.205.210,443,443,SG,Singapore,Singapore,254 ms,5862 kB/s
+8.219.103.126,443,443,SG,Singapore,Singapore,255 ms,5804 kB/s
+44.224.24.91,443,443,US,,,20 ms,94515 kB/s
+149.129.8.215,443,443,US,San Jose,San Jose,188 ms,550 kB/s
+8.219.140.63,443,443,SG,Singapore,Singapore,257 ms,8045 kB/s
+47.236.121.7,443,443,SG,Singapore,Singapore,254 ms,6778 kB/s
+8.219.52.156,443,443,SG,Singapore,Singapore,253 ms,3499 kB/s
+8.219.170.180,443,443,SG,Singapore,Singapore,254 ms,6821 kB/s
+8.219.137.50,443,443,SG,Singapore,Singapore,256 ms,8068 kB/s
+44.230.218.23,443,443,US,,,34 ms,46080 kB/s
+18.236.13.188,443,443,US,,,33 ms,43724 kB/s
+47.236.115.54,443,443,SG,Singapore,Singapore,255 ms,5700 kB/s
+8.219.3.53,443,443,SG,Singapore,Singapore,253 ms,6153 kB/s
+8.219.66.156,443,443,SG,Hong Kong,Hong Kong,254 ms,5498 kB/s
+8.219.201.245,443,443,SG,Hong Kong,Hong Kong,254 ms,6263 kB/s
+129.151.152.254,443,443,AE,Amsterdam,Amsterdam,262 ms,3373 kB/s
+18.237.22.14,443,443,US,,,61 ms,91545 kB/s
+35.199.37.84,443,443,US,,,64 ms,36864 kB/s
+3.105.5.82,443,443,AU,,,137 ms,14028 kB/s
+18.191.122.211,443,443,US,,,72 ms,1432 kB/s
+3.138.59.154,443,443,US,,,72 ms,1484 kB/s
+18.130.168.34,443,443,GB,,,180 ms,17408 kB/s
+13.59.65.96,443,443,US,,,71 ms,41062 kB/s
+43.204.146.16,443,443,IN,,,218 ms,7917 kB/s
+3.68.62.122,443,443,DE,,,157 ms,14233 kB/s
+3.67.232.136,443,443,DE,,,154 ms,14438 kB/s
+129.159.241.172,443,443,DE,,,148 ms,7041 kB/s
+18.159.105.97,443,443,DE,,,154 ms,14438 kB/s
+18.156.209.101,443,443,DE,,,152 ms,14438 kB/s
+43.205.48.107,443,443,IN,,,224 ms,6484 kB/s
+43.153.80.208,443,443,US,San Jose,San Jose,20 ms,187392 kB/s
+170.106.35.96,443,443,US,Ashburn,Ashburn,67 ms,2696 kB/s
+13.57.182.91,443,443,US,San Jose,San Jose,27 ms,38195 kB/s
+16.171.107.219,443,443,SE,Stockholm,Stockholm,174 ms,2338 kB/s
+198.46.193.167,443,443,US,Dallas,Dallas,39 ms,66969 kB/s
+13.57.249.176,443,443,US,,,2 ms,116736 kB/s
+18.216.55.100,443,443,US,Chicago,Chicago,68 ms,39116 kB/s
+18.163.233.64,443,443,HK,Hong Kong,Hong Kong,153 ms,16179 kB/s
+129.146.248.140,443,443,US,Los Angeles,Los Angeles,23 ms,41984 kB/s
+8.210.174.156,443,443,HK,Hong Kong,Hong Kong,150 ms,12390 kB/s
+131.186.28.236,443,443,KR,Hong Kong,Hong Kong,135 ms,5578 kB/s
+146.70.175.113,443,443,NL,Amsterdam,Amsterdam,150 ms,13721 kB/s
+8.222.128.131,443,443,SG,Singapore,Singapore,254 ms,6269 kB/s
+8.219.170.223,443,443,SG,Singapore,Singapore,253 ms,3362 kB/s
+8.219.156.148,443,443,SG,Singapore,Singapore,254 ms,6366 kB/s
+141.147.77.5,443,443,US,Frankfurt,Frankfurt,153 ms,14848 kB/s
+146.70.175.115,443,443,NL,Amsterdam,Amsterdam,150 ms,13209 kB/s
+47.236.116.182,443,443,SG,Singapore,Singapore,255 ms,6172 kB/s
+8.217.149.28,443,443,HK,Hong Kong,Hong Kong,153 ms,13004 kB/s
+47.88.101.9,443,443,US,San Jose,San Jose,72 ms,53964 kB/s
+103.137.63.3,443,443,TW,,,145 ms,14131 kB/s
+129.153.120.171,443,443,US,Los Angeles,Los Angeles,72 ms,8855 kB/s
+8.222.214.231,443,443,SG,Singapore,Singapore,254 ms,6668 kB/s
+150.230.99.142,443,443,JP,Tokyo,Tokyo,105 ms,5561 kB/s
+146.70.175.126,443,443,NL,Amsterdam,Amsterdam,151 ms,13619 kB/s
+146.70.175.124,443,443,NL,Amsterdam,Amsterdam,151 ms,13619 kB/s
+8.219.60.68,443,443,SG,Singapore,Singapore,255 ms,7511 kB/s
+138.3.254.39,443,443,DE,Frankfurt,Frankfurt,148 ms,13926 kB/s
+8.219.4.122,443,443,SG,Singapore,Singapore,254 ms,6372 kB/s
+141.148.229.106,443,443,NL,Amsterdam,Amsterdam,149 ms,4930 kB/s
+146.70.175.114,443,443,NL,Amsterdam,Amsterdam,146 ms,13619 kB/s
+54.203.85.46,443,443,US,,,106 ms,70553 kB/s
+8.219.114.201,443,443,SG,Singapore,Singapore,257 ms,7956 kB/s
+47.57.233.126,443,443,US,San Jose,San Jose,153 ms,407 kB/s
+192.18.159.129,443,443,CA,Toronto,Toronto,82 ms,6530 kB/s
+146.70.175.180,443,443,NL,Amsterdam,Amsterdam,152 ms,13926 kB/s
+146.70.169.117,443,443,NL,Amsterdam,Amsterdam,150 ms,14336 kB/s
+138.3.218.124,443,443,JP,Tokyo,Tokyo,105 ms,23654 kB/s
+18.163.249.175,443,443,HK,,,150 ms,11264 kB/s
+192.9.182.144,443,443,AU,Sydney,Sydney,146 ms,14745 kB/s
+47.236.113.184,443,443,SG,Singapore,Singapore,255 ms,2473 kB/s
+146.70.169.122,443,443,NL,Amsterdam,Amsterdam,150 ms,13619 kB/s
+146.70.175.122,443,443,NL,Amsterdam,Amsterdam,151 ms,13004 kB/s
+146.70.175.184,443,443,NL,Amsterdam,Amsterdam,152 ms,13004 kB/s
+8.219.210.64,443,443,SG,Singapore,Singapore,253 ms,5969 kB/s
+47.243.107.148,443,443,HK,Hong Kong,Hong Kong,154 ms,11059 kB/s
+146.70.175.109,443,443,NL,Amsterdam,Amsterdam,151 ms,12492 kB/s
+47.242.202.230,443,443,HK,Hong Kong,Hong Kong,152 ms,11161 kB/s
+47.245.111.136,443,443,SG,Singapore,Singapore,254 ms,5889 kB/s
+146.70.175.182,443,443,NL,Amsterdam,Amsterdam,156 ms,12492 kB/s
+8.218.204.128,443,443,HK,Hong Kong,Hong Kong,155 ms,10547 kB/s
+8.217.251.62,443,443,HK,Hong Kong,Hong Kong,153 ms,13414 kB/s
+193.122.197.111,443,443,US,Ashburn,Ashburn,69 ms,39014 kB/s
+8.219.157.97,443,443,SG,Singapore,Singapore,254 ms,6653 kB/s
+8.217.85.14,443,443,HK,Hong Kong,Hong Kong,154 ms,12800 kB/s
+8.222.224.17,443,443,SG,Singapore,Singapore,254 ms,6804 kB/s
+146.70.175.167,443,443,NL,Amsterdam,Amsterdam,150 ms,14336 kB/s
+8.219.161.129,443,443,SG,Singapore,Singapore,254 ms,6834 kB/s
+8.210.107.246,443,443,HK,Hong Kong,Hong Kong,154 ms,12492 kB/s
+146.70.175.108,443,443,NL,Amsterdam,Amsterdam,152 ms,13312 kB/s
+34.148.187.247,443,443,US,,,76 ms,43520 kB/s
+144.24.85.158,443,443,KR,Seoul,Seoul,132 ms,6921 kB/s
+129.80.116.250,443,443,US,Ashburn,Ashburn,74 ms,18022 kB/s
+146.70.175.171,443,443,NL,Amsterdam,Amsterdam,150 ms,13619 kB/s
+8.219.102.252,443,443,SG,Singapore,Singapore,258 ms,7423 kB/s
+8.222.221.90,443,443,SG,Singapore,Singapore,257 ms,7403 kB/s
+8.219.141.174,443,443,SG,Singapore,Singapore,256 ms,7315 kB/s
+18.192.93.64,443,443,DE,,,154 ms,12902 kB/s
+8.219.206.180,443,443,SG,Singapore,Singapore,260 ms,6849 kB/s
+8.219.200.145,443,443,SG,Singapore,Singapore,254 ms,5889 kB/s
+3.66.115.225,443,443,DE,,,155 ms,11366 kB/s
+146.70.169.114,443,443,NL,Amsterdam,Amsterdam,152 ms,12492 kB/s
+8.222.226.92,443,443,SG,Singapore,Singapore,255 ms,5749 kB/s
+47.57.245.232,443,443,US,San Jose,San Jose,153 ms,306 kB/s
+8.219.199.220,443,443,SG,Singapore,Singapore,254 ms,5467 kB/s
+152.70.52.215,443,443,NL,Amsterdam,Amsterdam,148 ms,13004 kB/s
+8.222.225.193,443,443,SG,Singapore,Singapore,254 ms,423 kB/s
+8.219.42.72,443,443,SG,Singapore,Singapore,255 ms,6823 kB/s
+8.219.103.65,443,443,SG,Singapore,Singapore,255 ms,6710 kB/s
+8.219.5.10,443,443,SG,Singapore,Singapore,254 ms,6774 kB/s
+8.219.152.195,443,443,SG,Singapore,Singapore,253 ms,5851 kB/s
+8.222.144.117,443,443,SG,Singapore,Singapore,254 ms,5798 kB/s
+146.70.175.118,443,443,NL,Amsterdam,Amsterdam,152 ms,15155 kB/s
+8.218.2.181,443,443,HK,Hong Kong,Hong Kong,148 ms,13721 kB/s
+8.219.106.15,443,443,SG,Singapore,Singapore,257 ms,8545 kB/s
+35.157.240.237,443,443,DE,,,154 ms,15052 kB/s
+8.217.250.222,443,443,HK,Hong Kong,Hong Kong,149 ms,13312 kB/s
+146.70.175.176,443,443,NL,Amsterdam,Amsterdam,150 ms,14336 kB/s
+8.217.145.40,443,443,HK,Hong Kong,Hong Kong,153 ms,12697 kB/s
+146.70.175.104,443,443,NL,Amsterdam,Amsterdam,146 ms,14745 kB/s
+146.70.175.174,443,443,NL,Amsterdam,Amsterdam,151 ms,14028 kB/s
+149.129.8.215,443,443,US,San Jose,San Jose,163 ms,27 kB/s
+8.219.137.50,443,443,SG,Singapore,Singapore,255 ms,7285 kB/s
+8.222.156.206,443,443,SG,,,253 ms,603 kB/s
+3.127.55.133,443,443,DE,,,154 ms,13209 kB/s
+8.219.222.98,443,443,SG,Singapore,Singapore,254 ms,6343 kB/s
+192.9.138.241,443,443,US,San Jose,San Jose,7 ms,223232 kB/s
+8.222.193.208,443,443,SG,Singapore,Singapore,255 ms,6964 kB/s
+8.219.97.179,443,443,SG,Singapore,Singapore,255 ms,8508 kB/s
+8.219.228.157,443,443,SG,Singapore,Singapore,254 ms,7136 kB/s
+146.70.175.112,443,443,NL,Amsterdam,Amsterdam,150 ms,14848 kB/s
+8.219.240.160,443,443,SG,Singapore,Singapore,269 ms,8032 kB/s
+8.218.148.106,443,443,HK,,,153 ms,16 kB/s
+8.219.70.151,443,443,SG,Singapore,Singapore,255 ms,6660 kB/s
+8.219.196.24,443,443,SG,Singapore,Singapore,255 ms,7250 kB/s
+8.219.50.180,443,443,SG,Singapore,Singapore,254 ms,6215 kB/s
+8.222.211.16,443,443,SG,Singapore,Singapore,257 ms,7448 kB/s
+47.242.79.71,443,443,HK,Hong Kong,Hong Kong,150 ms,12390 kB/s
+8.222.140.87,443,443,SG,Singapore,Singapore,254 ms,6162 kB/s
+8.210.117.18,443,443,HK,Hong Kong,Hong Kong,158 ms,14950 kB/s
+8.219.228.186,443,443,SG,Singapore,Singapore,254 ms,5887 kB/s
+8.219.201.245,443,443,SG,Singapore,Singapore,254 ms,5796 kB/s
+47.245.107.174,443,443,SG,Hong Kong,Hong Kong,255 ms,5698 kB/s
+140.238.33.161,443,443,JP,Hong Kong,Hong Kong,104 ms,20275 kB/s
+8.218.156.91,443,443,HK,Hong Kong,Hong Kong,158 ms,14131 kB/s
+8.217.221.165,443,443,HK,Hong Kong,Hong Kong,153 ms,11059 kB/s
+8.210.156.6,443,443,HK,Hong Kong,Hong Kong,153 ms,10854 kB/s
+192.169.127.184,443,443,US,San Jose,San Jose,104 ms,433 kB/s
+47.245.115.6,443,443,SG,Singapore,Singapore,255 ms,6734 kB/s
+8.222.221.109,443,443,SG,Singapore,Singapore,257 ms,7935 kB/s
+130.162.162.176,443,443,GB,London,London,142 ms,17203 kB/s
+150.230.44.13,443,443,US,San Jose,San Jose,53 ms,50176 kB/s
+144.24.90.194,443,443,KR,Hong Kong,Hong Kong,132 ms,10956 kB/s
+192.18.149.159,443,443,CA,Toronto,Toronto,62 ms,29798 kB/s
+3.135.201.228,443,443,US,,,69 ms,6595 kB/s
+8.219.51.211,443,443,SG,Singapore,Singapore,253 ms,6819 kB/s
+150.230.249.48,443,443,KR,Hong Kong,Hong Kong,132 ms,16486 kB/s
+8.219.122.96,443,443,SG,Singapore,Singapore,255 ms,6239 kB/s
+47.243.183.127,443,443,HK,Hong Kong,Hong Kong,156 ms,11980 kB/s
+146.70.175.189,443,443,NL,Amsterdam,Amsterdam,150 ms,13721 kB/s
+47.88.15.127,443,443,US,San Jose,San Jose,42 ms,9009 kB/s
+8.219.111.175,443,443,SG,Singapore,Singapore,254 ms,6063 kB/s
+8.210.3.24,443,443,HK,Hong Kong,Hong Kong,153 ms,11673 kB/s
+8.222.137.192,443,443,SG,Singapore,Singapore,254 ms,5427 kB/s
+130.162.46.27,443,443,DE,Frankfurt,Frankfurt,150 ms,10956 kB/s
+146.70.175.178,443,443,NL,Amsterdam,Amsterdam,146 ms,13312 kB/s
+8.222.212.219,443,443,SG,Singapore,Singapore,257 ms,6874 kB/s
+8.218.146.204,443,443,HK,Hong Kong,Hong Kong,153 ms,11264 kB/s
+47.89.191.155,443,443,US,Ashburn,Ashburn,72 ms,4015 kB/s
+8.219.101.138,443,443,SG,Singapore,Singapore,254 ms,5586 kB/s
+8.219.201.8,443,443,SG,Singapore,Singapore,254 ms,6806 kB/s
+8.219.61.52,443,443,SG,Singapore,Singapore,254 ms,6831 kB/s
+144.21.62.177,443,443,DE,Frankfurt,Frankfurt,155 ms,12800 kB/s
+129.159.84.71,443,443,US,Ashburn,Ashburn,84 ms,850 kB/s
+146.70.175.103,443,443,NL,Amsterdam,Amsterdam,150 ms,14233 kB/s
+8.219.215.214,443,443,SG,Singapore,Singapore,256 ms,7928 kB/s
+143.47.182.138,443,443,US,Frankfurt,Frankfurt,153 ms,12390 kB/s
+8.218.11.90,443,443,HK,Hong Kong,Hong Kong,155 ms,11878 kB/s
+8.219.140.229,443,443,SG,Singapore,Singapore,256 ms,7431 kB/s
+8.222.138.164,443,443,SG,Singapore,Singapore,255 ms,7409 kB/s
+8.219.186.189,443,443,SG,Singapore,Singapore,254 ms,6377 kB/s
+47.245.108.213,443,443,SG,Singapore,Singapore,255 ms,5886 kB/s
+8.219.82.35,443,443,SG,Singapore,Singapore,253 ms,5867 kB/s
+8.222.236.229,443,443,SG,Singapore,Singapore,254 ms,5866 kB/s
+8.219.67.133,443,443,SG,Singapore,Singapore,254 ms,7279 kB/s
+8.218.243.95,443,443,HK,Hong Kong,Hong Kong,153 ms,12185 kB/s
+8.211.55.176,443,443,DE,Frankfurt,Frankfurt,151 ms,591 kB/s
+146.56.162.25,443,443,KR,Seoul,Seoul,137 ms,14848 kB/s
+8.219.103.57,443,443,SG,Singapore,Singapore,258 ms,7468 kB/s
+8.222.210.182,443,443,SG,Singapore,Singapore,256 ms,6874 kB/s
+146.70.175.164,443,443,NL,Amsterdam,Amsterdam,240 ms,13107 kB/s
+8.219.140.63,443,443,SG,Singapore,Singapore,256 ms,6770 kB/s
+8.222.214.13,443,443,SG,Singapore,Singapore,256 ms,6919 kB/s
+47.236.12.195,443,443,SG,Singapore,Singapore,254 ms,5888 kB/s
+146.70.175.98,443,443,NL,Amsterdam,Amsterdam,152 ms,12492 kB/s
+8.219.196.117,443,443,SG,Singapore,Singapore,254 ms,5811 kB/s
+8.222.213.221,443,443,SG,Singapore,Singapore,256 ms,5624 kB/s
+158.180.68.56,443,443,KR,Hong Kong,Hong Kong,132 ms,18534 kB/s
+152.32.130.241,443,443,US,Los Angeles,Los Angeles,292 ms,5 kB/s
+8.222.193.65,443,443,SG,Singapore,Singapore,254 ms,6930 kB/s
+8.219.104.242,443,443,SG,Singapore,Singapore,254 ms,6670 kB/s
+8.222.198.105,443,443,SG,Singapore,Singapore,256 ms,8146 kB/s
+140.238.195.98,443,443,AU,Sydney,Sydney,148 ms,5565 kB/s
+8.219.99.8,443,443,SG,Singapore,Singapore,256 ms,7909 kB/s
+141.148.225.190,443,443,DE,Frankfurt,Frankfurt,153 ms,13824 kB/s
+8.222.254.91,443,443,SG,Singapore,Singapore,254 ms,6801 kB/s
+141.147.163.68,443,443,JP,Tokyo,Tokyo,130 ms,24064 kB/s
+8.218.174.118,443,443,HK,Hong Kong,Hong Kong,153 ms,12288 kB/s
+8.217.121.254,443,443,HK,Hong Kong,Hong Kong,156 ms,4340 kB/s
+47.236.116.182,443,443,SG,Singapore,Singapore,254 ms,6256 kB/s
+8.222.255.15,443,443,SG,Singapore,Singapore,255 ms,7515 kB/s
+146.70.175.163,443,443,NL,Amsterdam,Amsterdam,152 ms,13619 kB/s
+8.219.198.34,443,443,SG,Singapore,Singapore,255 ms,6142 kB/s
+8.217.248.220,443,443,HK,Hong Kong,Hong Kong,152 ms,11673 kB/s
+129.154.198.48,443,443,KR,Seoul,Seoul,135 ms,18022 kB/s
+141.144.195.249,443,443,DE,Frankfurt,Frankfurt,154 ms,11059 kB/s
+8.219.250.239,443,443,SG,Hong Kong,Hong Kong,254 ms,5794 kB/s
+8.222.157.86,443,443,SG,Singapore,Singapore,254 ms,3006 kB/s
+8.222.204.128,443,443,SG,Singapore,Singapore,254 ms,5902 kB/s
+192.9.132.76,443,443,US,San Jose,San Jose,52 ms,9709 kB/s
+146.70.175.123,443,443,NL,Amsterdam,Amsterdam,157 ms,12390 kB/s
+8.219.3.53,443,443,SG,Singapore,Singapore,254 ms,5492 kB/s
+8.218.188.129,443,443,HK,Hong Kong,Hong Kong,148 ms,14028 kB/s
+47.243.70.197,443,443,HK,Hong Kong,Hong Kong,155 ms,17715 kB/s
+146.70.175.120,443,443,NL,Amsterdam,Amsterdam,152 ms,14131 kB/s
+8.217.159.210,443,443,HK,Hong Kong,Hong Kong,155 ms,13004 kB/s
+168.138.46.67,443,443,JP,Osaka,Osaka,149 ms,5850 kB/s
+146.70.175.162,443,443,NL,Amsterdam,Amsterdam,151 ms,14233 kB/s
+23.90.144.167,443,443,DE,Frankfurt,Frankfurt,155 ms,13824 kB/s
+8.219.167.65,443,443,SG,Singapore,Singapore,253 ms,6088 kB/s
+129.153.213.8,443,443,US,Los Angeles,Los Angeles,45 ms,11059 kB/s
+146.70.169.115,443,443,NL,Amsterdam,Amsterdam,153 ms,8333 kB/s
+8.219.60.54,443,443,SG,Singapore,Singapore,254 ms,6286 kB/s
+8.219.87.34,443,443,SG,Singapore,Singapore,259 ms,6933 kB/s
+8.219.84.214,443,443,SG,Singapore,Singapore,254 ms,5964 kB/s
+8.219.144.168,443,443,SG,Singapore,Singapore,254 ms,5880 kB/s
+8.218.126.53,443,443,HK,Hong Kong,Hong Kong,152 ms,11673 kB/s
+146.70.175.188,443,443,NL,Amsterdam,Amsterdam,150 ms,12492 kB/s
+8.222.180.242,443,443,SG,Singapore,Singapore,256 ms,4166 kB/s
+8.218.207.169,443,443,HK,Hong Kong,Hong Kong,153 ms,11673 kB/s
+8.219.201.174,443,443,SG,Singapore,Singapore,256 ms,7992 kB/s
+8.222.205.210,443,443,SG,Singapore,Singapore,255 ms,7175 kB/s
+8.217.239.116,443,443,HK,Hong Kong,Hong Kong,153 ms,13209 kB/s
+8.219.84.102,443,443,SG,Singapore,Singapore,255 ms,3406 kB/s
+8.219.170.180,443,443,SG,Singapore,Singapore,254 ms,6746 kB/s
+146.70.169.116,443,443,NL,Amsterdam,Amsterdam,150 ms,14438 kB/s
+176.97.77.32,443,443,SE,Frankfurt,Frankfurt,173 ms,552 kB/s
+146.70.175.101,443,443,NL,Amsterdam,Amsterdam,150 ms,14233 kB/s
+8.219.66.156,443,443,SG,Tokyo,Tokyo,257 ms,6006 kB/s
+8.219.197.111,443,443,SG,Singapore,Singapore,257 ms,7897 kB/s
+146.70.175.121,443,443,NL,Amsterdam,Amsterdam,152 ms,13926 kB/s
+8.219.52.156,443,443,SG,Singapore,Singapore,253 ms,3109 kB/s
+23.90.144.170,443,443,DE,Frankfurt,Frankfurt,155 ms,13312 kB/s
+47.254.65.110,443,443,US,San Jose,San Jose,35 ms,299 kB/s
+8.219.174.213,443,443,SG,Singapore,Singapore,254 ms,6343 kB/s
+8.222.223.34,443,443,SG,Singapore,Singapore,356 ms,7301 kB/s
+146.70.175.110,443,443,NL,Amsterdam,Amsterdam,152 ms,12902 kB/s
+8.219.78.1,443,443,SG,Singapore,Singapore,255 ms,6161 kB/s
+8.210.107.246,443,443,HK,Hong Kong,Hong Kong,153 ms,11878 kB/s
+143.47.250.121,443,443,DE,Frankfurt,Frankfurt,153 ms,14028 kB/s
+47.242.79.71,443,443,HK,Hong Kong,Hong Kong,154 ms,11059 kB/s
+8.218.52.115,443,443,HK,Hong Kong,Hong Kong,153 ms,11161 kB/s
+8.222.197.251,443,443,SG,Singapore,Singapore,253 ms,5632 kB/s
+8.217.49.234,443,443,HK,,,156 ms,9309 kB/s
+8.219.198.139,443,443,SG,Singapore,Singapore,254 ms,5739 kB/s
+8.219.13.143,443,443,SG,Singapore,Singapore,254 ms,7224 kB/s
+47.254.66.75,443,443,US,San Jose,San Jose,70 ms,48025 kB/s
+129.146.169.119,443,443,US,Los Angeles,Los Angeles,71 ms,48332 kB/s
+146.70.175.107,443,443,NL,Amsterdam,Amsterdam,150 ms,14336 kB/s
+8.219.73.21,443,443,SG,Singapore,Singapore,254 ms,6767 kB/s
+8.210.21.65,443,443,HK,Hong Kong,Hong Kong,149 ms,981 kB/s
+47.241.209.61,443,443,SG,,,254 ms,220 kB/s
+8.210.119.11,443,443,HK,Hong Kong,Hong Kong,154 ms,12697 kB/s
+8.218.211.17,443,443,HK,Hong Kong,Hong Kong,148 ms,12697 kB/s
+146.70.175.99,443,443,NL,Amsterdam,Amsterdam,153 ms,10240 kB/s
+146.70.175.165,443,443,NL,Amsterdam,Amsterdam,150 ms,13619 kB/s
+8.218.48.92,443,443,HK,Hong Kong,Hong Kong,153 ms,12185 kB/s
+8.219.103.126,443,443,SG,Singapore,Singapore,255 ms,6311 kB/s
+8.218.18.132,443,443,HK,Hong Kong,Hong Kong,161 ms,11571 kB/s
+8.219.145.245,443,443,SG,Singapore,Singapore,254 ms,6203 kB/s
+8.219.100.155,443,443,SG,Singapore,Singapore,254 ms,5816 kB/s
+146.70.175.190,443,443,NL,Amsterdam,Amsterdam,150 ms,13209 kB/s
+158.180.84.48,443,443,KR,Seoul,Seoul,143 ms,12492 kB/s
+8.218.65.237,443,443,HK,Hong Kong,Hong Kong,153 ms,674 kB/s
+8.218.22.210,443,443,HK,Hong Kong,Hong Kong,152 ms,11366 kB/s
+47.88.15.127,443,443,US,San Jose,San Jose,38 ms,17715 kB/s
+144.21.39.185,443,443,DE,Frankfurt,Frankfurt,154 ms,14950 kB/s
+47.242.234.127,443,443,HK,Hong Kong,Hong Kong,156 ms,13312 kB/s
+8.219.193.22,443,443,SG,Singapore,Singapore,255 ms,8504 kB/s
+8.219.190.62,443,443,SG,Singapore,Singapore,254 ms,6831 kB/s
+8.222.226.15,443,443,SG,Singapore,Singapore,256 ms,7983 kB/s
+129.151.152.254,443,443,AE,Amsterdam,Amsterdam,261 ms,2729 kB/s
+8.219.222.8,443,443,SG,Singapore,Singapore,255 ms,6408 kB/s
+146.70.175.102,443,443,NL,Amsterdam,Amsterdam,150 ms,14336 kB/s
+8.219.159.232,443,443,SG,Singapore,Singapore,256 ms,8012 kB/s
+8.222.219.34,443,443,SG,Singapore,Singapore,254 ms,6535 kB/s
+193.123.94.216,443,443,AE,Dubai,Dubai,252 ms,5285 kB/s
+8.219.179.34,443,443,SG,Singapore,Singapore,256 ms,7466 kB/s
+8.217.49.34,443,443,HK,Hong Kong,Hong Kong,157 ms,12185 kB/s
+8.210.65.1,443,443,HK,Hong Kong,Hong Kong,152 ms,11776 kB/s
+149.129.8.215,443,443,US,San Jose,San Jose,164 ms,498 kB/s
+8.218.149.193,443,443,HK,Hong Kong,Hong Kong,156 ms,13721 kB/s
+47.89.244.253,443,443,US,San Jose,San Jose,76 ms,2288 kB/s
+8.219.12.152,443,443,SG,Singapore,Singapore,255 ms,6982 kB/s
+8.219.228.193,443,443,SG,Singapore,Singapore,255 ms,7056 kB/s
+8.210.146.108,443,443,HK,Hong Kong,Hong Kong,148 ms,11468 kB/s
+139.185.41.233,443,443,AE,Paris,Paris,250 ms,2937 kB/s
+152.67.214.73,443,443,KR,Seoul,Seoul,131 ms,15462 kB/s
+8.219.247.203,443,443,SG,Singapore,Singapore,256 ms,5791 kB/s
+8.219.235.164,443,443,SG,Singapore,Singapore,254 ms,5922 kB/s
+158.180.231.216,443,443,IT,,,162 ms,4360 kB/s
+8.222.208.83,443,443,SG,Singapore,Singapore,256 ms,8476 kB/s
+47.57.245.232,443,443,US,San Jose,San Jose,149 ms,15 kB/s
+146.70.175.179,443,443,NL,Amsterdam,Amsterdam,150 ms,14950 kB/s
+141.148.212.70,443,443,IN,Mumbai,Mumbai,254 ms,6823 kB/s
+129.151.134.185,443,443,AE,Hong Kong,Hong Kong,256 ms,6002 kB/s
+8.219.98.13,443,443,SG,Singapore,Singapore,255 ms,6741 kB/s
+23.90.151.62,443,443,DE,Frankfurt,Frankfurt,157 ms,13824 kB/s
+8.219.72.51,443,443,SG,Singapore,Singapore,255 ms,6769 kB/s
+47.243.161.235,443,443,HK,Hong Kong,Hong Kong,155 ms,16896 kB/s
+168.138.70.29,443,443,CA,Toronto,Toronto,75 ms,5551 kB/s
+138.2.18.184,443,443,JP,Hong Kong,Hong Kong,170 ms,5264 kB/s
+23.90.144.169,443,443,DE,Frankfurt,Frankfurt,155 ms,13312 kB/s
+8.222.252.150,443,443,SG,Singapore,Singapore,254 ms,6363 kB/s
+8.219.238.145,443,443,SG,Singapore,Singapore,254 ms,6331 kB/s
+8.219.74.35,443,443,SG,Singapore,Singapore,255 ms,6192 kB/s
+146.70.175.175,443,443,NL,Amsterdam,Amsterdam,151 ms,12902 kB/s
+146.70.175.170,443,443,NL,Amsterdam,Amsterdam,151 ms,12902 kB/s
+8.218.18.235,443,443,HK,Hong Kong,Hong Kong,155 ms,11468 kB/s
+8.218.119.115,443,443,HK,Hong Kong,Hong Kong,156 ms,14745 kB/s
+8.219.241.189,443,443,SG,Singapore,Singapore,256 ms,6832 kB/s
+128.1.18.29,443,443,US,San Jose,San Jose,104 ms,91 kB/s
+146.70.175.111,443,443,NL,Amsterdam,Amsterdam,151 ms,12492 kB/s
+47.245.96.163,443,443,SG,Singapore,Singapore,254 ms,5846 kB/s
+8.219.248.47,443,443,SG,Singapore,Singapore,254 ms,7147 kB/s
+8.219.237.250,443,443,SG,Singapore,Singapore,255 ms,8580 kB/s
+123.58.212.234,443,443,HK,Hong Kong,Hong Kong,153 ms,115 kB/s
+129.153.61.213,443,443,CA,Toronto,Toronto,75 ms,44441 kB/s
+168.138.52.13,443,443,JP,Hong Kong,Hong Kong,149 ms,5564 kB/s
+47.236.87.206,443,443,SG,Singapore,Singapore,255 ms,6804 kB/s
+193.123.81.105,443,443,AE,Paris,Paris,252 ms,4215 kB/s
+146.70.175.169,443,443,NL,Amsterdam,Amsterdam,146 ms,14233 kB/s
+8.219.126.240,443,443,SG,Singapore,Singapore,271 ms,6703 kB/s
+47.245.86.230,443,443,SG,Singapore,Singapore,255 ms,6665 kB/s
+8.218.85.128,443,443,HK,Hong Kong,Hong Kong,153 ms,12288 kB/s
+146.70.175.172,443,443,NL,Amsterdam,Amsterdam,151 ms,13516 kB/s
+47.243.173.187,443,443,HK,Hong Kong,Hong Kong,154 ms,11980 kB/s
+146.70.175.168,443,443,NL,Amsterdam,Amsterdam,151 ms,13619 kB/s
+8.212.19.60,443,443,US,San Jose,San Jose,154 ms,256 kB/s
+146.70.175.117,443,443,NL,Amsterdam,Amsterdam,152 ms,13516 kB/s
+47.242.17.250,443,443,HK,Hong Kong,Hong Kong,155 ms,11366 kB/s
+129.159.241.172,443,443,DE,,,152 ms,7071 kB/s
+146.70.175.105,443,443,NL,Amsterdam,Amsterdam,147 ms,13004 kB/s
+168.138.44.120,443,443,JP,Tokyo,Tokyo,150 ms,12595 kB/s
+168.138.41.79,443,443,JP,Osaka,Osaka,149 ms,12800 kB/s
+47.243.42.219,443,443,HK,Hong Kong,Hong Kong,154 ms,10752 kB/s
+8.218.8.142,443,443,HK,Hong Kong,Hong Kong,149 ms,11059 kB/s
+8.210.9.129,443,443,HK,Hong Kong,Hong Kong,154 ms,10956 kB/s
+8.210.245.224,443,443,HK,Hong Kong,Hong Kong,152 ms,13516 kB/s
+146.70.175.119,443,443,NL,Amsterdam,Amsterdam,152 ms,14950 kB/s
+146.70.175.125,443,443,NL,Amsterdam,Amsterdam,150 ms,15052 kB/s
+47.57.14.118,443,443,US,San Jose,San Jose,156 ms,17 kB/s
+8.217.164.10,443,443,HK,Hong Kong,Hong Kong,153 ms,13209 kB/s
+8.219.151.193,443,443,SG,Singapore,Singapore,254 ms,5706 kB/s
+8.219.170.232,443,443,SG,Singapore,Singapore,254 ms,6724 kB/s
+132.226.10.16,443,443,JP,Hong Kong,Hong Kong,103 ms,15257 kB/s
+146.70.169.118,443,443,NL,Amsterdam,Amsterdam,152 ms,14028 kB/s
+8.210.39.96,443,443,HK,Hong Kong,Hong Kong,153 ms,12697 kB/s
+47.242.171.94,443,443,HK,Hong Kong,Hong Kong,153 ms,12492 kB/s
+146.70.175.185,443,443,NL,Amsterdam,Amsterdam,151 ms,13516 kB/s
+129.146.186.4,443,443,US,Los Angeles,Los Angeles,66 ms,56217 kB/s
+8.218.158.94,443,443,HK,Hong Kong,Hong Kong,157 ms,15155 kB/s
+146.70.175.181,443,443,NL,Amsterdam,Amsterdam,151 ms,13516 kB/s
+146.70.175.166,443,443,NL,Amsterdam,Amsterdam,150 ms,13824 kB/s
+146.70.175.173,443,443,NL,Amsterdam,Amsterdam,151 ms,12902 kB/s
+8.219.251.81,443,443,SG,Singapore,Singapore,256 ms,7109 kB/s
+8.219.6.157,443,443,SG,Singapore,Singapore,254 ms,5939 kB/s
+8.217.207.60,443,443,HK,Hong Kong,Hong Kong,149 ms,5856 kB/s
+192.18.148.248,443,443,CA,Toronto,Toronto,57 ms,4999 kB/s
+141.147.168.39,443,443,JP,Tokyo,Tokyo,104 ms,20889 kB/s
+64.110.104.30,443,443,JP,Osaka,Osaka,149 ms,4891 kB/s
+8.219.142.229,443,443,SG,Singapore,Singapore,255 ms,5857 kB/s
+146.70.175.186,443,443,NL,Amsterdam,Amsterdam,151 ms,12083 kB/s
+47.243.203.119,443,443,HK,Hong Kong,Hong Kong,152 ms,13312 kB/s
+146.70.175.100,443,443,NL,Amsterdam,Amsterdam,151 ms,14950 kB/s
+150.230.47.17,443,443,US,San Jose,San Jose,92 ms,286720 kB/s
+8.222.212.172,443,443,SG,Singapore,Singapore,257 ms,7843 kB/s
+8.218.201.73,443,443,HK,Hong Kong,Hong Kong,153 ms,12800 kB/s
+8.219.206.53,443,443,SG,Singapore,Singapore,258 ms,7941 kB/s
+8.219.193.202,443,443,SG,Singapore,Singapore,256 ms,6781 kB/s
+8.222.164.209,443,443,SG,Singapore,Singapore,254 ms,6804 kB/s
+146.70.175.187,443,443,NL,Amsterdam,Amsterdam,151 ms,14028 kB/s
+130.61.23.77,443,443,DE,Frankfurt,Frankfurt,148 ms,14643 kB/s
+8.219.174.142,443,443,SG,Singapore,Singapore,255 ms,7321 kB/s
+8.219.73.188,443,443,SG,Singapore,Singapore,254 ms,5835 kB/s
+8.219.245.187,443,443,SG,Singapore,Singapore,254 ms,5865 kB/s
+8.219.175.127,443,443,SG,Singapore,Singapore,254 ms,5820 kB/s
+8.219.40.255,443,443,SG,Singapore,Singapore,257 ms,6838 kB/s
+146.70.175.116,443,443,NL,Amsterdam,Amsterdam,151 ms,12390 kB/s
+47.236.130.95,443,443,SG,Singapore,Singapore,254 ms,5383 kB/s
+8.219.58.64,443,443,SG,Singapore,Singapore,254 ms,5918 kB/s
+129.153.165.237,443,443,US,Ashburn,Ashburn,75 ms,36352 kB/s
+8.222.208.38,443,443,SG,Singapore,Singapore,254 ms,7220 kB/s
+47.245.100.33,443,443,SG,Singapore,Singapore,255 ms,7211 kB/s
+8.219.72.50,443,443,SG,Singapore,Singapore,257 ms,8510 kB/s
+144.21.60.82,443,443,DE,Frankfurt,Frankfurt,154 ms,10137 kB/s
+8.222.244.123,443,443,SG,Singapore,Singapore,255 ms,8012 kB/s
+152.67.249.123,443,443,US,San Jose,San Jose,52 ms,210944 kB/s
+47.251.74.226,443,443,US,Los Angeles,Los Angeles,38 ms,18022 kB/s
+8.222.209.223,443,443,SG,Singapore,Singapore,253 ms,6328 kB/s
+49.51.46.56,443,443,US,San Jose,San Jose,33 ms,1126 kB/s
+152.67.217.102,443,443,KR,Hong Kong,Hong Kong,133 ms,16384 kB/s
+8.219.124.227,443,443,SG,Singapore,Singapore,254 ms,5903 kB/s
+146.70.175.177,443,443,NL,Amsterdam,Amsterdam,150 ms,12697 kB/s
+129.146.46.164,443,443,US,Los Angeles,Los Angeles,52 ms,41779 kB/s
+152.67.250.155,443,443,US,San Jose,San Jose,126 ms,56934 kB/s
+8.222.152.165,443,443,SG,Singapore,Singapore,255 ms,8498 kB/s
+146.70.175.106,443,443,NL,Amsterdam,Amsterdam,150 ms,14848 kB/s
+47.89.191.155,443,443,US,Ashburn,Ashburn,72 ms,2940 kB/s
+8.222.221.86,443,443,SG,Singapore,Singapore,255 ms,8028 kB/s
+8.222.249.98,443,443,SG,Singapore,Singapore,254 ms,6761 kB/s
+146.70.175.183,443,443,NL,Amsterdam,Amsterdam,153 ms,14028 kB/s
+23.90.144.168,443,443,DE,Frankfurt,Frankfurt,154 ms,13721 kB/s
+146.56.151.2,443,443,KR,Seoul,Seoul,133 ms,17408 kB/s
+143.47.245.22,443,443,US,Frankfurt,Frankfurt,154 ms,12288 kB/s
+8.218.65.237,443,443,HK,Hong Kong,Hong Kong,154 ms,12083 kB/s
+47.242.54.157,443,443,HK,Hong Kong,Hong Kong,153 ms,12185 kB/s
+140.238.213.209,443,443,CH,Milan,Milan,167 ms,4927 kB/s
+8.219.0.162,443,443,SG,Singapore,Singapore,254 ms,6364 kB/s
+8.222.128.131,443,443,SG,Singapore,Singapore,254 ms,6033 kB/s
+8.219.111.147,443,443,SG,Singapore,Singapore,257 ms,6978 kB/s
+8.219.156.148,443,443,SG,Singapore,Singapore,254 ms,5598 kB/s
+8.219.106.156,443,443,SG,Singapore,Singapore,260 ms,8467 kB/s
+8.218.148.106,443,443,HK,,,153 ms,40 kB/s
+8.222.222.64,443,443,SG,Singapore,Singapore,254 ms,6857 kB/s
+164.152.17.14,443,443,US,,,50 ms,1363 kB/s
