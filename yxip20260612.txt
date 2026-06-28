@@ -10,7 +10,7 @@ cf.tencentapp.cn:443#tencentapp
 www.sage.com:443#sage
 keji.cf.3666888.xyz:443#cf.3666888
 cu.877774.xyz:443#cu.877774
-cloudflare.idc.rocks:443#cu.877774
+cloudflare.idc.rocks:443#idc
 www.swowd.com:443#swowd
 cf-ip-node.vov.moe:443#vov
 43.218.77.16:443#优选2
