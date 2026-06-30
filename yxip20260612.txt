@@ -1,3 +1,4 @@
+172.64.229.185:443#主力
 www.udacity.com:443#udacity
 www.nexusmods.com:443#nexusmods
 auctions.ihg.com.cn:443#ihg
@@ -25,4 +26,3 @@ cf-ip-node.vov.moe:443#vov
 13.193.106.143:443#yx
 54.150.241.35:443#yx
 18.177.141.243:443#yx
-43.206.92.44:443#yx
