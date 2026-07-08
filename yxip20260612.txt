@@ -1,16 +1,11 @@
 172.64.229.185:443#主力
 www.udacity.com:443#udacity
 www.nexusmods.com:443#nexusmods
-auctions.ihg.com.cn:443#ihg
-www.researchgate.net:443#researchgate
 cf.090227.xyz:443#cf.090227
 ct.877774.xyz:443#ct.877774
 cf.877774.xyz:443#cf.877774
-www.wto.org:443#wto
 cf.tencentapp.cn:443#tencentapp
-www.sage.com:443#sage
 keji.cf.3666888.xyz:443#cf.3666888
-cu.877774.xyz:443#cu.877774
 cloudflare.idc.rocks:443#idc
 www.swowd.com:443#swowd
 cf-ip-node.vov.moe:443#vov
@@ -19,10 +14,6 @@ cf-ip-node.vov.moe:443#vov
 162.159.44.131:443#优选7
 31.25.88.191:443#优选9
 104.18.45.30:443#优选10
-52.194.99.211:443#优选12
-52.194.99.211:443#win9
 54.250.124.53:443#yx
-18.183.185.131:443#yx
 13.193.106.143:443#yx
 54.150.241.35:443#yx
-18.177.141.243:443#yx
